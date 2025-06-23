@@ -1,19 +1,9 @@
-# adivinha-bandeiras
+# Adivinha Bandeiras
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Jogo simples de adivinhar o nome do país com sua respectiva bandeira, sendo limitado a 10 perguntas que nunca repetem o país. Feito utilizando API de Países "REST COUNTRIES" e com fins acadêmicos.
+Desenvolvido com .Dart no FlutterLab
 
-## Getting Started
+https://github.com/user-attachments/assets/c8aba974-9d49-4895-a4fb-e436b2484325
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+Link para acessar versão WEB do aplicativo:
+https://preview.flutlab.io/isabela_suzumura_neves/adivinha-bandeiras/#/quiz
